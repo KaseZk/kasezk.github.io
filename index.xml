@@ -26,5 +26,23 @@ Windows/Mac/Linux 全平台客户端  请保留此份 Cmd Markdown 的欢迎稿�
 3. 高亮一段代码2 @requires_authorization class SomeClass: pass if __name__ == &#39;__main__&#39;: # A comment print &#39;hello world&#39;  4.</description>
     </item>
     
+    <item>
+      <title>About</title>
+      <link>https://kasezk.github.io/about/</link>
+      <pubDate>Mon, 11 Mar 2019 20:09:31 +0800</pubDate>
+      
+      <guid>https://kasezk.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://kasezk.github.io/2019/03/11/welcome/</link>
+      <pubDate>Mon, 11 Mar 2019 20:08:15 +0800</pubDate>
+      
+      <guid>https://kasezk.github.io/2019/03/11/welcome/</guid>
+      <description>哈哈哈</description>
+    </item>
+    
   </channel>
 </rss>
