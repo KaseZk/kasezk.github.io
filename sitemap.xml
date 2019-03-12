@@ -3,39 +3,274 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kasezk.github.io/2019/03/11/markdown/</loc>
+    <loc>https://www.vial.cc/post/markdown/</loc>
     <lastmod>2019-03-11T20:23:16+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kasezk.github.io/about/</loc>
+    <loc>https://www.vial.cc/about/</loc>
     <lastmod>2019-03-11T20:09:31+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kasezk.github.io/2019/03/11/welcome/</loc>
+    <loc>https://www.vial.cc/post/welcome/</loc>
     <lastmod>2019-03-11T20:08:15+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kasezk.github.io/categories/</loc>
+    <loc>https://www.vial.cc/post/readme/</loc>
+    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</loc>
+    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/2018/06/02/istio08/</loc>
+    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/2018/05/24/set_up_my_ubuntu_desktop/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/2018/05/23/external_system_auth/</loc>
+    <lastmod>2018-05-23T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/2018/05/23/service_2_service_auth/</loc>
+    <lastmod>2018-05-23T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/2018/05/22/user_authentication_authorization/</loc>
+    <lastmod>2018-05-23T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/2018/05/23/istio-auto-injection-with-webhook/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/2018/05/01/may-day-jiulonghu/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/2018/04/16/using-helm-to-deploy-to-kubernetes/</loc>
+    <lastmod>2018-04-16T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/2018/04/11/service-mesh-vs-api-gateway/</loc>
+    <lastmod>2018-04-11T09:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/2018/03/29/what-is-service-mesh-and-istio/</loc>
+    <lastmod>2018-03-29T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/2018/03/13/use-docker-behind-http-proxy/</loc>
+    <lastmod>2018-03-13T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/2018/02/09/vim-tips/</loc>
+    <lastmod>2018-02-09T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/2018/02/09/docker-without-sudo/</loc>
+    <lastmod>2018-02-09T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/2018/05/22/user_authentication_authorization/</loc>
+    <lastmod>2018-02-03T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/2018/01/02/nginmesh-install/</loc>
+    <lastmod>2018-01-02T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/2017/11/28/access-application-from-outside/</loc>
+    <lastmod>2017-11-28T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/2017/11/08/istio-canary-release/</loc>
+    <lastmod>2017-11-08T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/2017/11/07/istio-traffic-shifting/</loc>
+    <lastmod>2017-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/2017/11/04/istio-install_and_example/</loc>
+    <lastmod>2017-11-04T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/2017/11/03/hello-world/</loc>
+    <lastmod>2017-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/search/placeholder/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/top/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/top/books/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/tags/api-gateway/</loc>
+    <lastmod>2018-04-11T09:32:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kasezk.github.io/post/</loc>
+    <loc>https://www.vial.cc/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/tags/docker/</loc>
+    <lastmod>2018-03-13T18:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/tags/helm/</loc>
+    <lastmod>2018-04-16T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/tags/istio/</loc>
+    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/tags/kubernetes/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/categories/life/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/</loc>
     <lastmod>2019-03-11T20:23:16+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kasezk.github.io/tags/</loc>
+    <loc>https://www.vial.cc/tags/microservice/</loc>
+    <lastmod>2018-05-23T18:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kasezk.github.io/</loc>
+    <loc>https://www.vial.cc/post/</loc>
     <lastmod>2019-03-11T20:23:16+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/search/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/tags/security/</loc>
+    <lastmod>2018-05-23T18:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/tags/service-mesh/</loc>
+    <lastmod>2018-04-11T09:32:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/tags/</loc>
+    <lastmod>2018-04-11T09:32:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/categories/tech/</loc>
+    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/categories/tips/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/tags/tips/</loc>
+    <lastmod>2018-03-13T18:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/top/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/tags/travel/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/tags/vim/</loc>
+    <lastmod>2018-02-09T11:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/tags/nginmesh/</loc>
+    <lastmod>2018-01-02T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/tags/service-mesh/</loc>
+    <lastmod>2018-01-02T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.vial.cc/tags/ubuntu/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
